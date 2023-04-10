@@ -9,8 +9,6 @@
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8.Tests.dll
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/ChallengesWithTestsMark8.Tests.pdb
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
-/Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/Microsoft.DotNet.PlatformAbstractions.dll
-/Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
@@ -19,7 +17,6 @@
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/testhost.dll
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/Newtonsoft.Json.dll
-/Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/System.Xml.XPath.XmlDocument.dll
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/xunit.abstractions.dll
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/xunit.assert.dll
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/xunit.core.dll
@@ -102,3 +99,5 @@
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.pdb
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.genruntimeconfig.cache
 /Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.Tests.dll
+/Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/dwightcaddell/Desktop/Projects/WeeklyChallenges/ChallengesWithTestsMark8.Tests/bin/Debug/net6.0/NuGet.Frameworks.dll
