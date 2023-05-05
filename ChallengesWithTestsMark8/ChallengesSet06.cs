@@ -48,31 +48,27 @@ namespace ChallengesWithTestsMark8
 
         public bool IsPrimeNumber(int num)
         {
+            var isPrime = false;
 
-            if (num < 2)
+            if (num >= 0)
             {
-                return false;
-            }
-            if (num >= 2)
-            {
-                return true;
-            }
-
-            for (int i = 1; i < num; i++)
-            {
-                if (num % i == 0 )
+                if (num % 2 != 0 && num % 3 != 0)
                 {
-                    num++;
+                    isPrime = true;
                 }
             }
-            if (num == 2)
-            {
-                return true;
-            }
-            return false;
-        }
-    
 
+            if ((num == 2) || (num == 3))
+            {
+                isPrime = true;
+            }
+            if (num == 1)
+            {
+                isPrime = false;
+            }
+            return isPrime;
+
+        }
         public int IndexOfLastUniqueLetter(string str)
         {
 
